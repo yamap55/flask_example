@@ -10,6 +10,8 @@ git config --bool flake8.strict true
 pip freeze > requirements.txt
 vi .gitignore
 # VSCode setting
+# add settings.json
+# add launch.json
 ```
 
 
