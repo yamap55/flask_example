@@ -1,5 +1,5 @@
 # flask example
-## process
+## process
 ```
 python -m venv .venv
 source ./.venv/bin/activate
